@@ -11,8 +11,8 @@
     "dependencies": {
         "@ensdomains/ensjs": "^4.0.2",
         "@hono/valibot-validator": "^0.5.2",
-        "hono": "^4.7.4",
-        "valibot": "1.0.0-rc.4",
+        "hono": "^4.13.7",
+        "valibot": "1.4.2",
         "viem": "^2.23.10"
     },
     "devDependencies": {
@@ -23,8 +23,8 @@
         "globals": "^15.15.0",
         "typescript": "^5.8.2",
         "typescript-eslint": "^8.26.1",
-        "vitest": "3.0.8",
-        "wrangler": "^4.0.0"
+        "vitest": "3.2.6",
+        "wrangler": "^4.146.0"
     },
     "packageManager": "pnpm@10.4.1",
     "pnpm": {
